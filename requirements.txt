@@ -2,3 +2,5 @@ numpy
 matplotlib
 japanize_matplotlib
 graphviz
+pandas
+scikit-learn
