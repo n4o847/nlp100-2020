@@ -4,3 +4,4 @@ japanize_matplotlib
 graphviz
 pandas
 scikit-learn
+seaborn
